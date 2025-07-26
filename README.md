@@ -35,7 +35,9 @@ This project presents a comprehensive analysis of HR data to derive meaningful i
 - **Employment Type**: Full-time employment is most common across all regions
 
 📊 Power BI Dashboard  
-👉 Power BI Dashboard available in `HR_Insights_Dashboard.pbix`  
+👉 Power BI Dashboard available in `HR_Insights_Dashboard.pbix` 
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/efa99b18-8ce1-474f-b015-ef3da21e7ff8" />
+
 The dashboard offers clear visual insights into:
 
 - Headcount Trends (Total, Active, Exits)  
